@@ -1,6 +1,6 @@
 fastapi==0.95.1
 uvicorn==0.21.1
-opencv-python==4.5.3.56 
+opencv-python-headless==4.5.3.56
 pandas==1.5.0  
 ultralytics==8.0.19  
 numpy
