@@ -1,6 +1,5 @@
 from fastapi import FastAPI, File, UploadFile, HTTPException
 import cv2
-import torch
 from ultralytics import YOLO
 app = FastAPI()
 
