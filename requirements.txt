@@ -1,5 +1,5 @@
 fastapi==0.95.1
-cv2==4.5.4
+opencv-python==4.5.5.64
 torch==1.12.1
 ultralytics==8.0.58
 uvicorn>=0.21.1,<1.0.0
